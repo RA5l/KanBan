@@ -37,4 +37,9 @@ KanBan/
 - ⏰ Add deadlines and reminders for tasks.  
 - 🖱️ Enhance drag-and-drop with animations.  
 - 📝 Improve task editing (title and description).
-```
+
+
+## Live Demo
+
+[https://kanban-by-raseel.netlify.app/](https://kanban-by-raseel.netlify.app/)
+
